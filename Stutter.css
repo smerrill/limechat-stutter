@@ -28,12 +28,27 @@ body.normal img {
     max-width: 95%;
 }
 
-body.normal a:link, a:visited, a:hover, a:active {
+body.normal a:link,
+body.normal a:visited,
+body.normal a:hover,
+body.normal a:active {
     color: #184586;
+}
+
+body.normal span.channel {
+  color: #666;
 }
 
 body.normal .text span {
     display: block;
+}
+
+body.normal .text .message span {
+    display: inline;
+}
+
+body.normal .text .message a {
+    white-space: nowrap;
 }
 
 body.normal .line {
