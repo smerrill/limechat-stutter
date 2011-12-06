@@ -8,6 +8,10 @@ It is based on the excellent [Whisper theme](https://github.com/jezdez/limechat-
 
 If you use LimeChat and thus IRC, you should really consider using [ZNC](https://github.com/znc/znc) and [bitlbee](http://bitlbee.org/main.php/news.r.html).
 
+# Obligatory Screenshot
+
+![Screenshot of Limechat with this theme](https://img.skitch.com/20111206-murhtb8751sawkcr1fjfwqfprs.jpg)
+
 # Ceci n'est pas une chat
 
 LimeChat is not LimeCat.
