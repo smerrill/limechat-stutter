@@ -2,7 +2,9 @@
 
 This is a theme for [LimeChat](https://github.com/psychs/limechat).
 
-It is based on the excellent [Whisper theme](https://github.com/jezdez/limechat-whisper).
+It uses a monospaced font such that code (or ASCII art) will look great. You will need to install the [Mensch font](http://robey.lag.net/2010/06/21/mensch-font.html) to put this theme to good use.
+
+The theme itself is based on the excellent [Whisper theme](https://github.com/jezdez/limechat-whisper).
 
 # Great IRC Programs
 
